@@ -1,3 +1,8 @@
+
+### ※ It fork form 'dk8996/Gantt-Chart'(https://github.com/dk8996/Gantt-Chart ).
+
+----
+
 ## Introduction
 A basic implementation of a Gantt Chart using D3.js. Here is an example [Example 1] (http://bl.ocks.org/dk8996/5534835) and another one [Example 2] (http://bl.ocks.org/dk8996/5449641).
 
